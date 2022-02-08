@@ -17,4 +17,3 @@
         -
         - **Thanks for watching**
         -
-![](./assets/g2k.gif)
