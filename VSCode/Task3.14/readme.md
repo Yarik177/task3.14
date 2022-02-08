@@ -22,6 +22,6 @@ ___
 5. [Branching](./branching.md)
 6. [Create a branch](./creatingabreanch.md)
 7. [Fail.gitignore](./fail.gitignore.md)
-8. [Сonclusion](./conslusion.md)
+8. [Сonclusion](./conclusion.md)
 
 ---
