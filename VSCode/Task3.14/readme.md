@@ -20,7 +20,7 @@ ___
 3. [Git commands](./gitcommands.md)
 4. [Creating a repository](./creatingarepository.md)
 5. [Branching](./branching.md)
-6. [Create a branch](./creatingabreanch.md)
+6. [Creating a branch](./creatingabreanch.md)
 7. [Fail.gitignore](./fail.gitignore.md)
 8. [Сonclusion](./conclusion.md)
 
